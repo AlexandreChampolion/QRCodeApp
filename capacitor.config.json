@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.qrcodeynov",
+  "appName": "QRCodeGenerator",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
